@@ -163,6 +163,8 @@ WingGlobe's ESP32-S3 connects via ESP-NOW and WiFi to fetch data from my close a
 
 **NOTE**: My name was redacted using the Inspect Element tool as this repository is publically visible. If an unredacted screenshot is required, please DM me or return my project.
 
+### I will self-fund the E-INK display due to the project tier being bumped down to T4.
+
 ### RENDER:
 
 <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/a91f5c31-5de7-4cce-ae7b-80da43aa794a" />
@@ -170,12 +172,6 @@ WingGlobe's ESP32-S3 connects via ESP-NOW and WiFi to fetch data from my close a
 (My friend with Blender skills did this and it turned out amazing, so I'm making this my cover image!)
 
 ## V. Notes For Reviewers!
-
-### Justification On Project Tier:
-
-When I first started this project, I made it without an E-Ink display, temperature sensor, or PWM controller, and had aimed for it to be a Tier 4 and a bit more compact. Sadly, adding an E-Ink display pushed me over Tier 4's budget limits, and I'd love to see this project come to life - I don't want the only indication of weather to be LEDs, as that kinda defies the purpose of a weather reporting station. This project's complexity lies mainly in putting it all together and getting it to work, as well as in its software. I don't personally believe a project like this should be in the same category as LED lights or macropads - a LOT more effort and hours were put into this project than my hackpad.
-
-Long story short, I'd appreciate it if this could be approved as a Tier 3. If there is not enough complexity, or any other issues, I could remove the E-Ink display and resize the PCB, which would shave ~$20 off the budget and get this into Tier 4 territory. Again, I'd rather not, but if WingGlobe cannot be approved as a Tier 3, I'd be more than happy to do that if it means getting my project built. Thanks! ;w;
 
 ### Usage Of Pre-Built Devboard:
 
