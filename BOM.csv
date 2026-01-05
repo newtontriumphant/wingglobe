@@ -4,33 +4,28 @@ AliExpress Item,Link,Description,Price,Quantity,Running Total
 ,,,,,
 1,https://www.aliexpress.us/item/3256805177029030.html,"(WHITE, 2-3.5mm 13g); used as snow",$2.08,1x 13g,$2.08
 2,https://www.aliexpress.us/item/3256806072050927.html,(SS12D06G5 10PCS); used for on/off,$1.76,1x 10,$3.84
-3,https://www.aliexpress.us/item/3256805040417601.html,(SINK0290B2-BRW); used as display,$9.99,1x 1,$13.83
-4,https://www.aliexpress.us/item/3256807169365804.html,(6PCS with AL lid); snow globe housing,$6.88,1x 6,$20.71
-5,https://www.aliexpress.us/item/3256806120222119.html,"(5V, 4010); fan to power snow",$2.06,1x 1,$22.77
+4,https://www.aliexpress.us/item/3256807169365804.html,(6PCS with AL lid); snow globe housing,$6.88,1x 6,$10.72
+5,https://www.aliexpress.us/item/3256806120222119.html,"(5V, 4010); fan to power snow",$2.06,1x 1,$12.69
 ,,,,,
-Shipping,,Cheapest Possible,$8.97,1x 1,$31.74
-Taxes,,I don't do tax evasion ;w;,$1.86,1x 1,$33.60
-Estimated Coupon,,I hope this'll still be there!,-$0.20,1x 1,$33.40
-,,,,,
-AliExpress Total:,$33.40,,,,
+AliExpress Total:,$12.69,,,,
 ,,,,,
 JLCPCB Item,,,,,
 ,,,,,
 PCB,N/A,What makes WingGlobe work!,$2.00,1x 5,$2.00
 PCBA,N/A,Pay those poor Chinese laborers!,$25.63,1x 2,$27.63
 Shipping,N/A,This is GSDL - check screenshot for proof.,$14.63,1x 1,$42.26
-Taxes,N/A,I wish I was tax-exempt...,$2.62,1x 1,$44.88
-Payment Fee,N/A,"What is this for, anyways?!",$0.50,1x 1,$45.38
+Taxes,N/A,I wish I was tax-exempt...,$1.79,1x 1,$44.05
+Payment Fee,N/A,"What is this for, anyways?!",$0.50,1x 1,$44.55
+Discount,N/A,"Hooray!",-$9.00,1x 1,$35.55
 ,,,,,
-JLCPCB Total:,$45.38,,,,
+JLCPCB Total:,$35.55,,,,
 ,,,,,
-GRAND TOTAL:,$78.78,,,,
+GRAND TOTAL:,$48.24,,,,
 ,,,,,
-ROUNDED TOTAL:,$80,,,,
+ROUNDED TOTAL:,$50,,,,
 ,,,,,
 Notes:,My detailed JLCPCB BOM for PCBA and proof of GSDL are in cart screenshots.,,,,
 ,"If required, the detailed PCBA breakdown can be individually listed. Please DM me.",,,,
 ,,,,,
-,"JLCPCB has a $10 coupon BUT it expires on January 3rd, which is why it's not",,,,
-,"accounted for in this BOM. If another coupon becomes available, I will return the",,,,
-,extra $10. ,,,,
+,,,,
+
