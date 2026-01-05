@@ -123,13 +123,9 @@ WingGlobe's ESP32-S3 connects via ESP-NOW and WiFi to fetch data from my close a
 
 ### CARTS:
 
-<img width="1920" height="1243" alt="Screenshot 2026-01-01 at 3 27 23 PM" src="https://github.com/user-attachments/assets/0d34162b-94cf-48c4-ba67-84bb96a317b3" />
+<img width="1920" height="1080" alt="Screenshot 2026-01-04 at 6 10 24 PM" src="https://github.com/user-attachments/assets/a834843a-e8d5-4fab-8a24-ebfd01f01383" />
 
-(AliExpress Checkout 1)
-
-<img width="1920" height="1243" alt="Screenshot 2026-01-01 at 3 27 32 PM" src="https://github.com/user-attachments/assets/e8a0cf12-f101-40be-9286-ebf22de88b42" />
-
-(AliExpress Checkout 2)
+(AliExpress Checkout)
 
 <img width="1124" height="890" alt="Screenshot 2026-01-01 at 3 34 09 PM" src="https://github.com/user-attachments/assets/92e7fda4-9f2b-46c1-9be4-e8cb54cba07d" />
 
@@ -151,13 +147,7 @@ WingGlobe's ESP32-S3 connects via ESP-NOW and WiFi to fetch data from my close a
 
 (JLCPCB Pre-Discounts)
 
-<img width="1920" height="1243" alt="Screenshot 2026-01-01 at 3 35 45 PM" src="https://github.com/user-attachments/assets/e2781eae-1f66-4024-be63-fd116b05f24e" />
-
-(JLCPCB Final Checkout w/ coupon)
-
-(**NOTE**: THIS COUPON WILL EXPIRE IN TWO DAYS, I WILL PROBABLY NOTE USE IT IN TIME. THIS IS WHY I AM REQUESTING $10 MORE THAN MY JLCPCB CART SCREENSHOT SHOWS.)
-
-<img width="1920" height="1243" alt="Screenshot 2026-01-01 at 3 38 08 PM" src="https://github.com/user-attachments/assets/1c448f87-f1fd-40cd-aa68-0ec4bacf807d" />
+<img width="1920" height="1080" alt="Screenshot 2026-01-04 at 6 09 27 PM" src="https://github.com/user-attachments/assets/0bf5b4fe-0979-4db2-861b-5e49e5b72bd2" />
 
 (JLCPCB Final Checkout As Shown On BOM)
 
